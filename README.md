@@ -1,3 +1,3 @@
 # cursoemvideo
 
-#Arquivos dos meus exerícios realizados no software Visualg 
+#Arquivos dos meus exercícios realizados no software Visualg 
