@@ -1,4 +1,4 @@
-# cursoemvideo
+# Curso de Algoritmo [40 Horas]
 
 #Arquivos dos meus exercícios realizados no software Visualg 
 
